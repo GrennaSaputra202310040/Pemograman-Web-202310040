@@ -1,0 +1,79 @@
+body{
+    
+}
+#pa{
+    text-align: center;
+}
+#navi{
+    background-color: rgb(0, 81, 255);
+    padding: 20px 20px 20px 20px;
+    margin: auto;
+    
+}
+.nav1{
+    text-align: center;
+    border: 2px;
+    padding: 20px 20px 20px 20px;
+    margin: auto;
+    color: rgb(255, 255, 255);
+}
+.nav2
+{
+    text-align: center;
+    border: 2px;
+    padding: 20px 20px 20px 20px;
+    margin: auto;
+    color: white;
+}
+.nav3{
+    text-align: center;
+    border: 2px;
+    padding: 20px 20px 20px 20px;
+    margin: auto;
+    color: rgb(255, 255, 255);
+}
+
+
+
+.navigb{
+width: 20px;
+height: 20px;
+
+}
+.poto{
+    border-radius: 100%;
+    border: 2px;
+}
+#img{
+text-align: center;
+
+}
+
+#nama{
+    text-align: center;
+}
+
+.para1{
+    border: 1px rgb(0, 0, 0);
+    border-radius: 25pt;
+    background-color: rgba(82, 215, 255, 0.404) ;
+    margin: auto;
+    text-align: justify;
+    padding: 25px;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+table{
+    text-align: left;
+    width: 100%;
+  
+
+}
+.bio{
+    padding: 10px 10px 10px 10px;
+    border-radius: 25px;
+    margin: auto;
+    background-color: rgba(104, 238, 238, 0.466);
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
